@@ -5,7 +5,7 @@ Welcome to my (rather messy) GitHub profile! 🚀
 ## 🌟 About Me  
 💡 Passionate about solving problems and building cool things.  
 🛠️ Always tinkering with new technologies and pushing my limits.  
-📚 Lifelong learner, always discovering new fundamental concepts/tools/frameworks.
+📚 Lifelong learner, always discovering new fundamental concepts/tools/frameworks.  
 🎯 On a mission to better connect business and tech sides of our life.
 
 ## 🔧 Tech Stack & Tools  
