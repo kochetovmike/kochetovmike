@@ -10,8 +10,11 @@ Welcome to my (rather messy) GitHub profile! 🚀
 
 ## 🔧 Tech Stack & Tools  
 - **Languages:**
-  - Backend - mainly Python, Java
-  - Frontend - mainly HTML/CSS/JS + React
+  - Backend (most experience) - mainly Python, Java
+  - Frontend (some experience) - mainly HTML/CSS/JS + React 
+  - Data engineering - platforms like Databricks & Palantir Foundry, cloud data services on AWS/Azure/GCP/Confluence
   - Finance-related languages - R, VBA, BQL (Bloomberg Query Language for Bloomberg Terminals)
+  - Fundamental experience - Git, GitFlow, Agile Methodologies, Jira + other tools
+  - Other tools & concepts: M365 + Power Platform
 
 Let's build something awesome together! ✨
