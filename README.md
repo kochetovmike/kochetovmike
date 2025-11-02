@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! 🚀  
 
 ## 🌟 About Me  
-/ Professionally, on a mission to better connect business and technology.
-/ Personally, enjoy hiking/cycling/jogging, trying out new sorts of coffee, and photography (mostly architecture).
-/ Lifelong learner, open to discovering new fundamental concepts/tools/frameworks
+- Professionally, on a mission to better connect business and technology.
+- Personally, enjoy hiking/cycling/jogging, trying out new sorts of coffee, and photography (mostly architecture).
+- Lifelong learner, open to discovering new fundamental concepts/tools/frameworks
 
 ## 🔧 Tech Stack & Tools  
 
