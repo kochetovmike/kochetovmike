@@ -1,12 +1,11 @@
 ## 👋 Hey there, I'm Mike!
 
-Welcome to my (rather messy) GitHub profile! 🚀  
+Welcome to my GitHub profile! 🚀  
 
 ## 🌟 About Me  
-💡 Passionate about solving problems and building cool things.  
-🛠️ Always tinkering with new technologies, pushing my limits, rapid prototyping and creating something new.  
-📚 Lifelong learner, always discovering new fundamental concepts/tools/frameworks.  
-🎯 On a mission to better connect business and tech sides of our life.
+/ Professionally, on a mission to better connect business and technology.
+/ Personally, enjoy hiking/cycling/jogging, trying out new sorts of coffee, and photography (mostly architecture).
+/ Lifelong learner, open to discovering new fundamental concepts/tools/frameworks
 
 ## 🔧 Tech Stack & Tools  
 
